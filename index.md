@@ -1,3 +1,5 @@
-# Welcome to my blog
+# This is the Home Page for DEVRAJ HAZARIKA
 
-I'm glad you are here. I plan to talk about ...
+Let's talk about music and the impact that it can have in your life. 
+
+Go [here](www.google.com) to learn more 
